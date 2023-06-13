@@ -1,3 +1,12 @@
+-------------                                                                    ----------------
+-------------                                                                    ----------------
+-------------                                                                    ----------------
+-------------------------------------------------------------------------------------------------
+-------------                                                                    ----------------
+-------------                                                                    ----------------
+-------------                                                                    ----------------
+
+
 <p align="center"><img src="https://i.imgur.com/DIpuNTI.jpg"></p>
 
 <p align="center">
@@ -28,12 +37,12 @@
   <a style="margin-right: 10px;" href="https://github.com/thewhiteh4t/seeker#usage">
     <img src="https://dabuttonfactory.com/button.png?t=USAGE&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
   </a>
-  <a href="https://github.com/thewhiteh4t/seeker#demo">
+  
     <img src="https://dabuttonfactory.com/button.png?t=DEMO&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
   </a>
 </p>
 
-Concept behind Seeker is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. Read more on <a href="https://thewhiteh4t.github.io"> thewhiteh4t's Blog </a>.Seeker Hosts a fake website which asks for Location Permission and if the target allows it, we can get :
+Concept behind Seeker is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. Read more on <a href="https://github.com/ShortTemperd007"> thewhiteh4t's Blog </a>.Seeker Hosts a fake website which asks for Location Permission and if the target allows it, we can get :
 
 * Longitude
 * Latitude
@@ -79,11 +88,12 @@ Along with Location Information we also get **Device Information** without any p
 Available Templates : 
 
 * NearYou
-* Google Drive (Suggested by @Akaal_no_one)
-* WhatsApp (Suggested by @Dazmed707)
+* Google Drive 
+* WhatsApp 
 * Telegram
-* Zoom (Made by @a7maadf)
-* Google reCAPTCHA (Made by @MrEgyptian)
+* Zoom 
+* Google reCAPTCHA 
+* custom template
 
 ## Tested On :
 
@@ -93,44 +103,32 @@ Available Templates :
 * Kali Nethunter
 * Termux
 * Parrot OS
-* OSX - Monterey v.12.0.1
 
 ## Installation
 
 ### Kali Linux / Arch Linux / Ubuntu / Parrot OS / Termux
 
-```bash
-git clone https://github.com/thewhiteh4t/seeker.git
-cd seeker/
+
+git clone https://github.com/ShortTemperd007/locationseeker.git
+cd seeker
 chmod +x install.sh
-./install.sh
-```
-
-### BlackArch Linux
-
-```bash
-sudo pacman -S seeker
-```
-
-### Docker
-
-```bash
-docker pull thewhiteh4t/seeker
-```
-
-### OSX
-```bash
-git clone https://github.com/thewhiteh4t/seeker.git
-cd seeker/
+bash install.sh
 python3 seeker.py
-````
+
+<img src="seeker1(1).png">
+
+---------
+
 
 In order to run in tunnel mode, install ngrok by running this command in the terminal:
 ```bash
 brew install ngrok/ngrok/ngrok
-
+open new termianl
+start ngrok session
 ngrok http 8080
 ````
+<img src="seeker2.png">
+
 
 ## Usage
 
@@ -206,8 +204,9 @@ $ docker run --rm -it --net ngroknet --name seeker thewhiteh4t/seeker
 
 # Step 3
 $ docker run --rm -it --net ngroknet --name ngrok wernight/ngrok ngrok http seeker:8080
-```
 
+```
+ <img src="seeker3.png">
 ## Local Tunnels
 Use
 ```
@@ -217,8 +216,8 @@ as an alterntive to ngrok
 
 ## Demo
 
-**YouTube**
 
-<a href="https://youtu.be/Q91cTFwIvLc">
+
+
   <img src="https://i3.ytimg.com/vi/Q91cTFwIvLc/maxresdefault.jpg">
 </a>
