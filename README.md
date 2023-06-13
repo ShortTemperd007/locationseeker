@@ -195,8 +195,11 @@ ssh -R 80:localhost:8080 nokey@localhost.run
 as an alterntive to ngrok
 
 Feel free to contact me
+
 instagram  https://www.instagram.com/shorttemperd007/
+
 substack   https://substack.com/profile/127349544-muhammad-huzaifa?utm_source=user-menu
+
 github     https://github.com/ShortTemperd007/
 
 
