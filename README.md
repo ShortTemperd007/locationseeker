@@ -13,11 +13,8 @@
   <img src="https://i.imgur.com/1wJVDV5.png">
 </p>
 
-<p>
- 
-    <img src="https://dabuttonfactory.com/button.png?t=INSTALL&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
-  </a>
 
+    
    
  
 
@@ -89,9 +86,13 @@ Available Templates :
 
 
 git clone https://github.com/ShortTemperd007/locationseeker.git
+
 cd seeker
+
 chmod +x install.sh
+
 bash install.sh
+
 python3 seeker.py
 
 <img src="seeker1 (1).png">
