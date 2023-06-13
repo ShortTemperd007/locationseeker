@@ -7,26 +7,9 @@
 -------------                                                                    ----------------
 
 
-<p align="center"><img src="https://i.imgur.com/DIpuNTI.jpg"></p>
 
-<p align="center">
-    
-      <img src="https://img.shields.io/badge/-TWITTER-black?logo=twitter&style=for-the-badge">
-    </a>
-    &nbsp;
-    <a href="https://twc1rcle.com/">
-      <img src="https://img.shields.io/badge/-THE WHITE CIRCLE-black?logo=&style=for-the-badge">
-    </a>
-    &nbsp;
-    <a href="https://thewhiteh4t.github.io/">
-      <img src="https://img.shields.io/badge/-BLOG-black?logo=dialogflow&style=for-the-badge">
-    </a>
-</p>
 
-<p align="center">
-  <br>
-  <b>Available in</b>
-  <br>
+
   <img src="https://i.imgur.com/1wJVDV5.png">
 </p>
 
@@ -36,10 +19,7 @@
   </a>
 
    
-  
-    <img src="https://dabuttonfactory.com/button.png?t=DEMO&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
-  </a>
-</p>
+ 
 
 Concept behind Seeker is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. Read more on <a href="https://github.com/ShortTemperd007"> thewhiteh4t's Blog </a>.Seeker Hosts a fake website which asks for Location Permission and if the target allows it, we can get :
 
