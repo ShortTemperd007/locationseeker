@@ -10,7 +10,7 @@
 <p align="center"><img src="https://i.imgur.com/DIpuNTI.jpg"></p>
 
 <p align="center">
-    <a href="https://twitter.com/thewhiteh4t">
+    
       <img src="https://img.shields.io/badge/-TWITTER-black?logo=twitter&style=for-the-badge">
     </a>
     &nbsp;
@@ -31,12 +31,11 @@
 </p>
 
 <p>
-  <a style="margin-right: 10px;" href="https://github.com/thewhiteh4t/seeker#installation">
+ 
     <img src="https://dabuttonfactory.com/button.png?t=INSTALL&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
   </a>
-  <a style="margin-right: 10px;" href="https://github.com/thewhiteh4t/seeker#usage">
-    <img src="https://dabuttonfactory.com/button.png?t=USAGE&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
-  </a>
+
+   
   
     <img src="https://dabuttonfactory.com/button.png?t=DEMO&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
   </a>
@@ -115,7 +114,7 @@ chmod +x install.sh
 bash install.sh
 python3 seeker.py
 
-<img src="seeker1(1).png">
+<img src="seeker1 (1).png">
 
 ---------
 
@@ -214,10 +213,12 @@ ssh -R 80:localhost:8080 nokey@localhost.run
 ```
 as an alterntive to ngrok
 
-## Demo
+Feel free to contact me
+instagram  https://www.instagram.com/shorttemperd007/
+substack   https://substack.com/profile/127349544-muhammad-huzaifa?utm_source=user-menu
+github     https://github.com/ShortTemperd007/
 
 
 
 
-  <img src="https://i3.ytimg.com/vi/Q91cTFwIvLc/maxresdefault.jpg">
-</a>
+
